@@ -48,4 +48,4 @@
   
   ![account info](https://github.com/dolansete/Imagenes/blob/main/Captura%20de%20pantalla%202022-01-02%20184209.png)
   
-  This works because the server asks for accounts by asking Eureka a logical name ACCOUNTS-SERVICE and Eureka translates it.
+  This works because the web server asks for accounts by asking Eureka a logical name ACCOUNTS-SERVICE and Eureka translates it.
